@@ -1,2 +1,2 @@
 # Tensorflow_Documentation_Testing
-Test files for Tensorflow Coursera, all originals can be viewed at https://www.coursera.org/learn/introduction-tensorflow/home/welcome
+Test files for a comparison of industry-sponsored education and Ivy+ coursework. Original Tensorflow Coursera files are available [here](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
